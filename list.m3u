@@ -1,0 +1,250 @@
+#EXTM3U
+#EXTINF:30,La Red.
+#EXTVLCOPT:network-caching=1000
+http://tv.wifiexpert.cl:80/tv/2022/5.m3u8
+#EXTINF:20, UCV | CL
+#EXTVLCOPT:network-caching=1000
+https://unlimited2-cl-isp.dps.live/ucvtv2/ucvtv2.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:15, UCV 2 | CL
+#EXTVLCOPT:network-caching=1000
+https://unlimited10-cl.dps.live/ucvtveventos/ucvtveventos.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:29,TV+.
+#EXTVLCOPT:network-caching=1000
+http://tv.wifiexpert.cl:80/tv/2022/6.m3u8
+#EXTINF:30,TVN.
+#EXTVLCOPT:network-caching=1000
+http://tv.wifiexpert.cl:80/tv/2022/4.m3u8
+#EXTINF:30,Mega.
+#EXTVLCOPT:network-caching=1000
+http://tv.wifiexpert.cl:80/tv/2022/2.m3u8
+#EXTINF:30,CHV.
+#EXTVLCOPT:network-caching=1000
+http://tv.wifiexpert.cl:80/tv/2022/3.m3u8
+#EXTINF:0, U Chile TV | CL
+#EXTVLCOPT:network-caching=1000
+https://unlimited1-cl-isp.dps.live/uchiletv/uchiletv.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:30,Canal 13.
+#EXTVLCOPT:network-caching=1000
+http://tv.wifiexpert.cl:80/tv/2022/1.m3u8
+#EXTINF:0, 13 Cultura | CL
+#EXTVLCOPT:network-caching=1000
+https://unlimited2-cl-isp.dps.live/13cultura/13cultura.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0, 13 Entretencion | CL
+#EXTVLCOPT:network-caching=1000
+https://unlimited1-cl-isp.dps.live/13e/13e.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0, 13 Prime | CL
+#EXTVLCOPT:network-caching=1000
+https://unlimited2-cl-isp.dps.live/13p/13p.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0, 13 Teleseries | CL
+#EXTVLCOPT:network-caching=1000
+https://unlimited1-cl-isp.dps.live/13t/13t.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0, STGO.TV | CL
+#EXTVLCOPT:network-caching=1000
+https://stv.janus.cl/playlist/stream.m3u8?PlaylistM3UCL
+#EXTINF:18, Campus TV | CL
+#EXTVLCOPT:network-caching=1000
+https://unlimited1-cl-isp.dps.live/campustv/campustv.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:10,CNN Chile
+#EXTVLCOPT:network-caching=1000
+http://tv.wifiexpert.cl:80/tv/2022/8.m3u8
+#EXTINF:0, Puranoticia | CL
+#EXTVLCOPT:network-caching=1000
+https://pnt.janusmedia.tv/hls/pnt.m3u8?PlaylistM3UCL
+#EXTINF:60, Wapp | CL
+#EXTVLCOPT:network-caching=1000
+https://mdstrm.com/live-stream-playlist/6046495ddf98b007fa2fe807.m3u8?PlaylistM3UCL
+#EXTINF:0, Chile Channel | CL
+#EXTVLCOPT:network-caching=1000
+https://v2.tustreaming.cl/chilechannel/index.m3u8?PlaylistM3UCL
+#EXTINF:100, TVN - 24h | CL
+#EXTVLCOPT:network-caching=1000
+http://mdstrm.com/live-stream-playlist-v/5346f5f2c1e6f5810b5b9df0.m3u8?PlaylistM3UCL
+#EXTINF:32, TVN 24 Horas | CL
+#EXTVLCOPT:network-caching=1000
+https://mdstrm.com/live-stream-playlist/57d1a22064f5d85712b20dab.m3u8?PlaylistM3UCL
+#EXTINF:100, TVN 24 Horas 2 | CL
+#EXTVLCOPT:network-caching=1000
+https://mdstrm.com/live-stream-playlist-v/53443c472c6e89675103cc4c.m3u8?PlaylistM3UCL
+#EXTINF:125, CHV Noticias | CL
+#EXTVLCOPT:network-caching=1000
+https://siloh-latam-aka.plutotv.net/lilo/production/Chilevision/master.m3u8?PlaylistM3UCL
+#EXTINF:18, T13 | CL
+#EXTVLCOPT:network-caching=1000
+https://unlimited1-cl-isp.dps.live/t13/t13.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:32, Meganoticias | CL
+#EXTVLCOPT:network-caching=1000
+http://www.m3u.cl/channel/meganoticias.php?PlaylistM3UCL
+#EXTINF:25, Señal Mediabanco | CL
+#EXTVLCOPT:network-caching=1000
+https://unlimited1-cl-isp.dps.live/mediabanco/mediabanco.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0, TV Costa | CL
+#EXTVLCOPT:network-caching=1000
+https://tv.tvcontrolcp.com:1936/costatv1/costatv1/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0, TV Quinta Region | CL
+#EXTVLCOPT:network-caching=1000
+https://mediacpstreamchile.com:1936/8002/8002/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0, Canal de la Costa | CL
+#EXTVLCOPT:network-caching=1000
+https://livefocamundo.com:8081/cdlcyerko/index.m3u8?PlaylistM3UCL
+#EXTINF:18, Girovisual TV | CL
+#EXTVLCOPT:network-caching=1000
+https://unlimited1-cl-isp.dps.live/girovisual2/girovisual2.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:20, Canal 2 de San Antonio | CL
+#EXTVLCOPT:network-caching=1000
+https://unlimited1-cl-isp.dps.live/canal2/canal2.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:18, TVR | CL
+#EXTVLCOPT:network-caching=1000
+https://unlimited1-cl-isp.dps.live/tvr/tvr.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0, El Conquistador TV | CL
+#EXTVLCOPT:network-caching=1000
+https://v2.tustreaming.cl/conquistadorcc/index.m3u8?PlaylistM3UCL
+#EXTINF:0, Radio Agricultura | CL
+#EXTVLCOPT:network-caching=1000
+http://unlimited1-cl-isp.dps.live/921tv/921tv.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0, Radio Duna | CL
+#EXTVLCOPT:network-caching=1000
+https://unlimited1-cl-isp.dps.live/dunatv/dunatv.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0, Cooperativa | CL
+#EXTVLCOPT:network-caching=1000
+https://unlimited1-cl-isp.dps.live/coopetv/coopetv.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0, Bio Bio TV | CL
+#EXTVLCOPT:network-caching=1000
+https://unlimited1-cl-isp.dps.live/bbtv/bbtv.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0, ADN | CL
+#EXTVLCOPT:network-caching=1000
+https://unlimited2-cl-isp.dps.live/adntv/adntv.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0, T13 Radio | CL
+#EXTVLCOPT:network-caching=1000
+https://unlimited1-cl-isp.dps.live/t13radio/t13radio.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:10,NTV.
+#EXTVLCOPT:network-caching=1000
+http://tv.wifiexpert.cl:80/tv/2022/7.m3u8
+#EXTINF:0, Kids90 | CL
+#EXTVLCOPT:network-caching=1000
+https://videostreaming.cloudserverlatam.com:443/Kids90/Kids90/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0, Cloud Server Kids | CL
+#EXTVLCOPT:network-caching=1000
+https://videostreaming.cloudserverlatam.com:443/kids/kids/playlist.m3u8?PlaylistM3UCL
+#EXTINF:18, Etc TV | CL
+#EXTVLCOPT:network-caching=1000
+https://unlimited2-cl-isp.dps.live/etctv/etctv.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0, NTV | CL
+#EXTVLCOPT:network-caching=1000
+https://marine2.miplay.cl/ntv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0, CSTV * | CL
+#EXTVLCOPT:network-caching=1000
+https://videostreaming.cloudserverlatam.com:443/CSTV/CSTV/playlist.m3u8?PlaylistM3UCL
+#EXTINF:27, El Chavo Plus * | CL
+#EXTVLCOPT:network-caching=1000
+https://videostreaming.cloudserverlatam.com:443/elchavoplus/elchavoplus/playlist.m3u8?PlaylistM3UCL
+#EXTINF:30,Dos Kids
+#EXTVLCOPT:network-caching=1000
+http://tv.wifiexpert.cl:80/tv/2022/83.m3u8
+#EXTINF:10,TeenNick HD
+#EXTVLCOPT:network-caching=1000
+http://tv.wifiexpert.cl:80/tv/2022/124.m3u8
+#EXTINF:30,TNT HD
+#EXTVLCOPT:network-caching=1000
+http://tv.wifiexpert.cl:80/tv/2022/50.m3u8
+#EXTINF:10,Space HD
+#EXTVLCOPT:network-caching=1000
+http://tv.wifiexpert.cl:80/tv/2022/123.m3u8
+#EXTINF:10,Cinemax HD
+#EXTVLCOPT:network-caching=1000
+http://tv.wifiexpert.cl:80/tv/2022/69.m3u8
+#EXTINF:10,NatGeo HD
+#EXTVLCOPT:network-caching=1000
+http://tv.wifiexpert.cl:80/tv/2022/73.m3u8
+#EXTINF:30,AXN HD
+#EXTVLCOPT:network-caching=1000
+http://tv.wifiexpert.cl:80/tv/2022/74.m3u8
+#EXTINF:30,TNT Series
+#EXTVLCOPT:network-caching=1000
+http://tv.wifiexpert.cl:80/tv/2022/75.m3u8
+#EXTINF:30,Energeek 2
+#EXTVLCOPT:network-caching=1000
+http://tv.wifiexpert.cl:80/tv/2022/91.m3u8
+#EXTINF:10,France24 HD
+#EXTVLCOPT:network-caching=1000
+http://tv.wifiexpert.cl:80/tv/2022/102.m3u8
+#EXTINF:10,Cinecanal HD
+#EXTVLCOPT:network-caching=1000
+http://tv.wifiexpert.cl:80/tv/2022/107.m3u8
+#EXTINF:10,Canal 24 Horas
+#EXTVLCOPT:network-caching=1000
+http://tv.wifiexpert.cl:80/tv/2022/112.m3u8
+#EXTINF:10,Win Sports+ HD
+#EXTVLCOPT:network-caching=1000
+http://tv.wifiexpert.cl:80/tv/2022/119.m3u8
+#EXTINF:10,Win Sports HD
+#EXTVLCOPT:network-caching=1000
+http://tv.wifiexpert.cl:80/tv/2022/122.m3u8
+#EXTINF:10,SPORTS HD
+#EXTVLCOPT:network-caching=1000
+http://tv.wifiexpert.cl:80/tv/2022/121.m3u8
+#EXTINF:0, Teatro del Lago | CL
+#EXTVLCOPT:network-caching=1000
+https://mdstrm.com/live-stream-playlist/5eee24e3ed5b6d0761a11a31.m3u8?PlaylistM3UCL
+#EXTINF:10,Love Nature HD
+#EXTVLCOPT:network-caching=1000
+http://tv.wifiexpert.cl:80/tv/2022/120.m3u8
+#EXTINF:10,Caracol HD
+#EXTVLCOPT:network-caching=1000
+http://tv.wifiexpert.cl:80/tv/2022/125.m3u8
+#EXTINF:10,RCN HD
+#EXTVLCOPT:network-caching=1000
+http://tv.wifiexpert.cl:80/tv/2022/126.m3u8
+#EXTINF:10,MTV HD
+#EXTVLCOPT:network-caching=1000
+http://tv.wifiexpert.cl:80/tv/2022/48.m3u8
+#EXTINF:10,MTV Live
+#EXTVLCOPT:network-caching=1000
+http://tv.wifiexpert.cl:80/tv/2022/111.m3u8
+#EXTINF:10,MTV 00s
+#EXTVLCOPT:network-caching=1000
+http://tv.wifiexpert.cl:80/tv/2022/127.m3u8
+#EXTINF:30,Vclassic TV
+#EXTVLCOPT:network-caching=1000
+http://tv.wifiexpert.cl:80/tv/2022/129.m3u8
+#EXTINF:30,Vclassic Tropical
+#EXTVLCOPT:network-caching=1000
+http://tv.wifiexpert.cl:80/tv/2022/128.m3u8
+#EXTINF:30,RetroPlus Uno
+#EXTVLCOPT:network-caching=1000
+http://tv.wifiexpert.cl:80/tv/2022/130.m3u8
+#EXTINF:30,RetroPlus Dos
+#EXTVLCOPT:network-caching=1000
+http://tv.wifiexpert.cl:80/tv/2022/131.m3u8
+#EXTINF:30,RewindTV
+#EXTVLCOPT:network-caching=1000
+http://tv.wifiexpert.cl:80/tv/2022/114.m3u8
+#EXTINF:10,Stingray iConcerts
+#EXTVLCOPT:network-caching=1000
+http://tv.wifiexpert.cl:80/tv/2022/109.m3u8
+#EXTINF:30, Recuerdos Retro Radio TV | CL
+#EXTVLCOPT:network-caching=1000
+https://593b04c4c5670.streamlock.net:443/8002/8002/playlist.m3u8?PlaylistM3UCL
+#EXTINF:18, La Red | CL
+#EXTVLCOPT:network-caching=1000
+https://unlimited1-cl-isp.dps.live/lared/lared.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:40, TV+ | CL
+#EXTVLCOPT:network-caching=1000
+https://mdstrm.com/live-stream-playlist/5c0e8b19e4c87f3f2d3e6a59.m3u8?PlaylistM3UCL
+#EXTINF:100, TVN | CL
+#EXTVLCOPT:network-caching=1000
+https://mdstrm.com/live-stream-playlist-v/53443c472c6e89675103cc4c.m3u8?PlaylistM3UCL
+#EXTINF:100, TVN - Reuters | CL
+#EXTVLCOPT:network-caching=1000
+https://mdstrm.com/live-stream-playlist/5346f657c1e6f5810b5b9df3.m3u8?PlaylistM3UCL
+#EXTINF:17, Mega | CL
+#EXTVLCOPT:network-caching=1000
+https://unlimited1-cl-isp.dps.live/mega/mega.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:125, CHV Contigo | CL
+#EXTVLCOPT:network-caching=1000
+https://siloh-latam-aka.plutotv.net/lilo/production/ChileVisionContigo/VE/master.m3u8?PlaylistM3UCL
+#EXTINF:0, CHV | CL
+#EXTVLCOPT:network-caching=1000
+https://marine2.miplay.cl/chv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:60, Canal 13 | CL
+#EXTVLCOPT:network-caching=1000
+https://unlimited1-cl-isp.dps.live/13cl/13cl.smil/playlist.m3u8?PlaylistM3UCL
